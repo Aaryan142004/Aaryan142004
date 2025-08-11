@@ -23,7 +23,7 @@
 <h6 align="left">- 🎓 Final-year B.Tech IT @ VIT Vellore (2026)</h6>
 <h6 align="left">- 🪙 Built NFT-based Loyalty Framework using Polygon zkEVM, Solidity & Hardhat</h6>
 <h6 align="left">- 🌐 Full-stack: Next.js, Tailwind CSS, Node.js, Express.js, MongoDB</h6>
-<h6 align="left">- ☁️ AWS | Blockchain | System Design | Cybersecurity Enthusiast</h6>
+<h6 align="left">- ☁️ Software Development | Blockchain | System Design | AWS</h6>
 
 ---
 
